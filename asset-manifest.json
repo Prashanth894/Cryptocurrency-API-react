@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cryptocurrency-API-react/static/css/main.073c9b0a.css",
+    "main.js": "/Cryptocurrency-API-react/static/js/main.34817c4f.js",
+    "index.html": "/Cryptocurrency-API-react/index.html",
+    "main.073c9b0a.css.map": "/Cryptocurrency-API-react/static/css/main.073c9b0a.css.map",
+    "main.34817c4f.js.map": "/Cryptocurrency-API-react/static/js/main.34817c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.34817c4f.js"
+  ]
+}
